@@ -10,11 +10,13 @@ The site is **fully responsive** and includes a **search bar** to quickly find m
 - Local JSON database
 - Fully responsive design for all screen sizes
 
-## Demo Access
-Due to copyrighted images, a password page is included.  
+## Demo
+You can view the live demo here: [Live Demo](https://ramin-movie-lumix.netlify.app/)  
+
+⚠️ **Note:** Due to copyrighted images, a password page is included.  
 **Demo Password:** `password123`
 
 ## How to Use
-1. Open `index.html`
+1. Open the live demo link or `index.html` locally
 2. Enter the demo password to access the site
 3. Browse and search movies/series using the search bar
