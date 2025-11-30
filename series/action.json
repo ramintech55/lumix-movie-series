@@ -1,0 +1,38 @@
+[
+    {
+      "title": "24",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2001-2010 · Action/Thriller · 1h per episode",
+      "description": "A counter-terrorist agent races against time to prevent a series of terrorist attacks, all within the span of 24 hours.",
+      "thumbnail": "https://variety.com/wp-content/uploads/2014/03/24-tv-show-past-seasons.jpg"
+    },
+    {
+      "title": "Reacher",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2022 · Action/Crime · 1h per episode",
+      "description": "A former military policeman investigates the mystery behind a conspiracy involving his own past while unraveling deadly secrets.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:250,cw:1500,ch:1125,q:80,w:1500/HzVQXGijnayVtfeq9kMUgS.jpg"
+    },
+    {
+      "title": "Jack Ryan",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGYxNzgzNTQtY2U0OC00NzU2LTgxZmYtNmZkMmVlMjgyMzM3XkEyXkFqcGc@._V1_.jpg",
+      "info": "+16 · 2018-Present · Action/Thriller · 1h per episode",
+      "description": "Jack Ryan, a CIA analyst, is thrust into dangerous missions to uncover international conspiracies and fight terrorists.",
+      "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2018/08/tom-clancy-s-jack-ryan-Tom-Clancys-Jack-Ryan-John-Krasinski_rgb.jpg?w=1581&h=1054&crop=1"
+    },
+    {
+      "title": "The Punisher",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI2NDllMjgtOWEyYi00Y2YxLThhYjQtNTQ0NTgwNDE1YmYzXkEyXkFqcGc@._V1_.jpg",
+      "info": "+18 · 2017-2019 · Action/Crime · 1h per episode",
+      "description": "Frank Castle becomes The Punisher, a vigilante who uses his military skills to punish criminals responsible for his family's death.",
+      "thumbnail": "https://wallpapercat.com/w/full/5/0/e/1590323-3840x2160-desktop-4k-the-punisher-tv-series-wallpaper.jpg"
+    },
+    {
+      "title": "The Mandalorian",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+13 · 2019-Present · Action/Adventure · 30min-1h per episode",
+      "description": "A lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic, embarks on an adventure with a mysterious child.",
+      "thumbnail": "https://static01.nyt.com/images/2019/11/15/arts/15mandalorian-1/15mandalorian-1-superJumbo.jpg"
+    }
+]
+  

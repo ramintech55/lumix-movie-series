@@ -1,0 +1,170 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col1,
+.col2 {
+    flex-basis: 50%;
+}
+
+.col1 {
+    padding: 0 2rem;
+}
+
+.film-thumbnail {
+    width: 100%;
+    border-radius: 3rem;
+    mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 30%);
+    -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 30%);
+}
+
+.name {
+    font-size: 4rem;
+    font-weight: bold;
+    padding-top: 4rem;
+}
+
+.info {
+    font-size: 1.2rem;
+    color: var(--secondary-text-color);
+    padding-bottom: 2rem;
+}
+
+.about {
+    font-size: 1.3rem;
+}
+
+.film-btns {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+.play-btn {
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    background-color: var(--cta-color);
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: 0.2s ease;
+}
+
+.play-btn:hover {
+    background-color: #B00610;
+}
+
+.trailer {
+    border: 0.1rem solid var(--text-color);
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    background: transparent;
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: 0.2s ease;
+}
+
+.trailer:hover {
+    background-color: var(--text-color);
+    color: black;
+}
+
+@media (max-width: 532px) {
+    .play-btn {
+        font-size: 1.2rem;
+    }
+    .trailer {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 497px) {
+    .play-btn {
+        font-size: 1rem;
+    }
+    .trailer {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 468px) {
+    .play-btn {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .trailer {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .info {
+        font-size: 0.8rem;
+    }
+    .body {
+        flex-direction: column;
+    }
+    .film-thumbnail {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 442px) {
+    .play-btn {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .trailer {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .info {
+        font-size: 0.8rem;
+    }
+    .profile-arrow-btn {
+        display: none;
+    }
+    .film-thumbnail {
+        border-radius: 2rem;
+    }
+    .body {
+        flex-direction: column;
+    }
+    .film-thumbnail {
+        margin-top: 1.5rem;
+    }
+}
+@media (max-width: 400px) {
+    .play-btn {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .trailer {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+    .info {
+        font-size: 0.8rem;
+    }
+    .profile-div .profile-arrow-btn {
+        display: none;
+    }
+    .name {
+        font-size: 3.5rem;
+    }
+    .film-thumbnail {
+        border-radius: 2rem;
+    }
+    .body {
+        flex-direction: column;
+    }
+    .film-thumbnail {
+        margin-top: 1.5rem;
+    }
+}

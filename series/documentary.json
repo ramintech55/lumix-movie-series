@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Making A Murderer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_.jpg",
+      "info": "+13 · 2015-2018 · Documentary · 1h per episode",
+      "description": "This documentary series follows Steven Avery, who was wrongfully convicted of a crime, and his subsequent fight for justice after being accused of another crime.",
+      "thumbnail": "https://static01.nyt.com/images/2015/12/17/arts/17MAKING1/17MAKING1-superJumbo.jpg"
+    },
+    {
+      "title": "Monster: The Jeffrey Dahmer Story",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Dahmer_netflix_series.jpg",
+      "info": "+18 · 2022 · Crime · 1h per episode",
+      "description": "This true crime drama series explores the life and crimes of serial killer Jeffrey Dahmer, revealing the systemic failures that allowed him to continue his killing spree for over a decade.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTUzYmEzYzAtMmFkZi00MDFlLTgzZDctMWQ1OTkwYWE4OWE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Planet Earth II",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+7 · 2016 · Documentary · 1h per episode",
+      "description": "Narrated by Sir David Attenborough, this nature documentary series takes viewers on an extraordinary journey across the globe, showcasing Earth's diverse wildlife.",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/fb782838dc20c22d98b1123abbd58cc1132959691afb52b6a04e9d53c2a47a5f.jpg"
+    },
+    {
+      "title": "The Last Dance",
+      "image": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABbfeGtisgXMJ3uTAA7o6k_AUbqNMHcctiZcdZsaqhqV4FU58PLhDr1e3UsSbHIk-XrsF662ufNpAG7kLDUwtGm_2HNKLyJItZFCC.jpg?r=7f0",
+      "info": "+13 · 2020 · Documentary · 1h per episode",
+      "description": "This docuseries chronicles Michael Jordan's legendary career and his final season with the Chicago Bulls during their 1997-98 championship run.",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/d37b95f4c1e97dd0451113295d267681a70d0f16293421f0c89ef715f77081aa.jpg"
+    },
+    {
+      "title": "Wild Wild Country",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY5ZWY0YzctOGNjMi00MzM0LWFjNDUtNDUxMzI0Mjc1N2Y1XkEyXkFqcGc@._V1_.jpg",
+      "info": "+16 · 2018 · Documentary · 1h per episode",
+      "description": "This series tells the story of the controversial Indian guru Bhagwan Shree Rajneesh, his community of followers, and the clash with the local government in Wasco County, Oregon.",
+      "thumbnail": "https://media.newyorker.com/photos/5ace4d1640fc7c73d8309b04/16:9/w_2831,h_1592,c_limit/Patterson-Wild-Wild-Country.jpg"
+    },
+    {
+      "title": "Our Planet",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@._V1_.jpg",
+      "info": "+7 · 2019 · Documentary · 1h per episode",
+      "description": "Narrated by Sir David Attenborough, this nature documentary series explores the beauty of the natural world and the impact of climate change on Earth's ecosystems.",
+      "thumbnail": "https://decider.com/wp-content/uploads/2019/04/our-planet-siosi.jpg?quality=75&strip=all"
+    }
+  ]
+  

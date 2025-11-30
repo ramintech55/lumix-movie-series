@@ -1,0 +1,65 @@
+[
+    {
+        "title": "The Shining",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1980 · Horror/Thriller · 2h 26min",
+        "description": "A man becomes increasingly unhinged while isolated with his family at a remote hotel, where he descends into madness and violence.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg0MzkzODUwNV5BMl5BanBnXkFtZTgwODM1MjEwNDI@._V1_.jpg"
+    },
+    {
+        "title": "IT",
+        "image": "https://m.media-amazon.com/images/I/61bMkkwpduL._AC_UF894,1000_QL80_.jpg",
+        "info": "+16 · 2017 · Horror · 2h 15min",
+        "description": "A group of children must face their fears when a sinister clown known as Pennywise begins terrorizing their town.",
+        "thumbnail": "https://play-lh.googleusercontent.com/proxy/ku_3mB3NmRWUtmolPTfag211nSQ7qj-Z_xTt9vyYncQOh0sKvkP5ZbYMbCY8o7FuTob6H-yxs3fdvifLIuH2hkNQHRLszzMfKj43lZ1uQBDv9qehjN4IP0Py=s3840-w3840-h2160"
+    },
+    {
+        "title": "The Nun",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 2018 · Horror · 1h 36min",
+        "description": "A priest and a novice investigate the death of a nun at a secluded abbey, uncovering dark secrets and supernatural terror.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUwMDI0ZGMtZmU3YS00Mjc4LThmZGEtOTZkYTlmZGM2YTNiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+    },
+    {
+        "title": "The Conjuring",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
+        "info": "+16 · 2013 · Horror/Thriller · 1h 52min",
+        "description": "Paranormal investigators Ed and Lorraine Warren help a family terrorized by a dark presence in their farmhouse.",
+        "thumbnail": "https://static01.nyt.com/images/2013/07/19/arts/19JPCONJURING_SPAN/19JPCONJURING_SPAN-superJumbo-v2.jpg"
+    },
+    {
+        "title": "IT Chapter 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 2019 · Horror · 2h 49min",
+        "description": "The Losers Club reunites as adults to defeat the evil entity, Pennywise, who has returned to terrorize their town once more.",
+        "thumbnail": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2020/04/itchaptertwo_method.jpg?fit=1200%2C593&ssl=1"
+    },
+    {
+        "title": "Siccin 7",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBhN2MwZDUtYzQ3Yi00NzA1LWFlZTAtMjY0YzRhOTg1NWQ0XkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 2020 · Horror · 1h 33min",
+        "description": "A Turkish horror movie about a curse, black magic, and evil spirits that haunt a family, leading to tragic consequences.",
+        "thumbnail": "https://images.mubicdn.net/images/film/413443/cache-970415-1745502704/image-w1280.jpg"
+    },
+    {
+        "title": "Terrifier",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_.jpg",
+        "info": "+18 · 2016 · Horror · 1h 18min",
+        "description": "A terrifying killer clown, Art the Clown, goes on a rampage, tormenting and murdering anyone who crosses his path on Halloween night.",
+        "thumbnail": "https://gizmodo.com/app/uploads/2024/10/Art-Terrifier-2.jpg"
+    },
+    {
+        "title": "Annabelle",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjkyMDU5ZWQtZDhkOC00ZWFjLWIyM2MtZWFhMDUzNjdlNzU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 2014 · Horror/Thriller · 1h 39min",
+        "description": "A doll possessed by an evil spirit brings terror to a young couple, as the sinister force begins to manipulate their lives.",
+        "thumbnail": "https://www.usatoday.com/gcdn/-mm-/3d3be86b08b746e9fd8c097b2e3a044a920e4852/c=0-92-1339-849/local/-/media/2017/08/06/USATODAY/USATODAY/636375748745443454-XXX-ANNABELLE-MOV-JY-2961--67725108.JPG"
+    },
+    {
+        "title": "The Exorcist",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1973 · Horror · 2h 2min",
+        "description": "A mother seeks help for her daughter, who is possessed by a demon, leading to a harrowing and terrifying exorcism to save her soul.",
+        "thumbnail": "https://i.guim.co.uk/img/media/3d72593e4880476b44b9f1aaefa688ef594accb3/0_446_4971_2984/master/4971.jpg?width=465&dpr=1&s=none&crop=none"
+    }
+]

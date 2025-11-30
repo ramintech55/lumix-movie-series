@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Shutter Island",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 2010 · Mystery/Thriller · 2h 18min",
+        "description": "A U.S. Marshal investigates the disappearance of a patient from a mental institution, uncovering shocking truths along the way.",
+        "thumbnail": "https://www.indiewire.com/wp-content/uploads/2020/02/shutterstock_editorial_5883624s.jpg"
+    },
+    {
+        "title": "Se7en",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 1995 · Crime/Drama · 2h 7min",
+        "description": "Two detectives investigate a series of grisly murders that correspond to the seven deadly sins, leading them to a terrifying conclusion.",
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/aZYdr9eZ3mPymGDZja3THg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/entertainment_weekly_785/e8244937f77221b0bdf0b93f8450fbe2"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 1991 · Crime/Thriller · 1h 58min",
+        "description": "A young FBI agent seeks the help of imprisoned cannibalistic serial killer Hannibal Lecter to catch another serial killer on the loose.",
+        "thumbnail": "https://images.bauerhosting.com/legacy/media/6026/a037/4ef6/302f/a23a/5c22/sotl-3.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+    },
+    {
+        "title": "Parasite",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 2019 · Drama/Thriller · 2h 12min",
+        "description": "A poor family slowly infiltrates a wealthy family’s home, leading to unexpected twists and dark revelations about class and society.",
+        "thumbnail": "https://media.newyorker.com/photos/5da4a5c756dcd400082a63ba/master/pass/Brody-Parasite.jpg"
+    },
+    {
+        "title": "American Psycho",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/American_Psycho.png",
+        "info": "+18 · 2000 · Crime/Drama · 1h 41min",
+        "description": "A wealthy New York investment banker leads a double life as a serial killer, indulging in his violent and sadistic urges.",
+        "thumbnail": "https://ew.com/thmb/U6EIi9ktwkFr0KPA2k8mpRfPAQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/christian-bale-american-psycho-02-050325-a2fa00735d5040abb73a839f032e3cbb.jpg"
+    },
+    {
+        "title": "Memento",
+        "image": "https://upload.wikimedia.org/wikipedia/az/c/c7/Memento_poster.jpg",
+        "info": "+16 · 2000 · Mystery/Thriller · 1h 53min",
+        "description": "A man with short-term memory loss uses tattoos and photographs to track down the man who murdered his wife, but his perception of reality is questioned.",
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXK3YZmX5LhCRImd9yTFro1ii2KRrxxwa7zJ2dnExbGqervXclJH706l_Fkjb9aC1J5mgfY1yfU7EKgxv3KOeeOioN4GNlINoPih.jpg?r=8fc"
+    },
+    {
+        "title": "Fall",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmZjYjAxMDEtOTE2My00MmM5LTkyYjctOWRjMjgyM2JhMDI0XkEyXkFqcGc@._V1_.jpg",
+        "info": "+13 · 2022 · Thriller/Adventure · 1h 47min",
+        "description": "Two friends climb a remote, abandoned radio tower and become stranded at the top with no way down, pushing their physical and mental limits in a desperate fight for survival.",
+        "thumbnail": "https://deadline.com/wp-content/uploads/2023/03/fall-2022-1200-1200-675-675-crop-000000.jpg"
+    }
+]

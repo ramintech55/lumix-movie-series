@@ -1,0 +1,38 @@
+[
+    {
+      "title": "The Haunting of Hill House",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2018 · Drama, Horror, Mystery · 50 minutes per episode",
+      "description": "A family confronts haunting memories of their old home and the events that drove them from it, while facing new paranormal challenges.",
+      "thumbnail": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWMScH7SKfBl8e5B95G9f-ZsI4oVM8FlZuiMEHxpV_xPdLFIpc94UA_D0Hp_o8QeI5_lU7INdIaNzXj4IEo_df1QZ7FUayEnd3U3.jpg?r=153"
+    },
+    {
+      "title": "American Horror Story",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2011–present · Drama, Horror · 45 minutes per episode",
+      "description": "An anthology series exploring various horror stories with unique settings each season, ranging from haunted houses to witch covens and alien invasions.",
+      "thumbnail": "https://ew.com/thmb/OqB5RDBljnSd_0T9Inftmo5h4m0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/06-AMERICAN-HORROR-STORY-Freak-Show-2014-77aaf09721fb4c9ca43f8169f418d8ff.jpg"
+    },
+    {
+      "title": "Marianne",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZjYmQ4NzItMDA4Mi00ZjRjLWE3Y2ItYmY2ZTJkNmNhYTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2019 · Drama, Horror, Thriller · 40 minutes per episode",
+      "description": "A famous horror writer is forced to confront the terrifying reality behind her nightmarish creations when the evil spirit from her stories becomes real.",
+      "thumbnail": "https://frenchmoments.eu/wp-content/uploads/2016/05/Eug%C3%A8ne-Delacroix-La-libert%C3%A9-guidant-le-peuple-detail-2.jpg"
+    },
+    {
+      "title": "The Fall of the House of Usher",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmMyMDNiMWMtMTlmZS00MmI2LWFiNWItYWJkNmM3Mzc2Y2NmXkEyXkFqcGc@._V1_.jpg",
+      "info": "+16 · 2023 · Drama, Horror, Mystery · 60 minutes per episode",
+      "description": "A modern take on Edgar Allan Poe's classic story, exploring the downfall of the Usher family amidst tragedy, mystery, and eerie forces.",
+      "thumbnail": "https://www.framerated.co.uk/frwpcontent/uploads/2023/10/houseusher01.jpeg"
+    },
+    {
+      "title": "Midnight Mass",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFjMDM5MzgtZWI3OC00ZWRmLThlNTktN2ZkMTc3ZTA5NGEzXkEyXkFqcGc@._V1_.jpg",
+      "info": "+18 · 2021 · Drama, Horror, Mystery · 50 minutes per episode",
+      "description": "A small town is transformed by the arrival of a mysterious priest, whose presence brings miraculous events and unsettling darkness.",
+      "thumbnail": "https://earthcritic.com/wp-content/uploads/2021/11/mmpic.jpg"
+    }
+  ]
+  

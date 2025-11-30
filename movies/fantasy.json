@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Inception",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "info": "+13 · 2010 · Action/Sci-Fi · 2h 28min",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "thumbnail": "https://storygrid.com/wp-content/uploads/2018/11/313-Inception.png"
+    },
+    {
+        "title": "Star Wars: The Rise Of Skywalker",
+        "image": "https://m.media-amazon.com/images/I/81oApl4ir9L._AC_UF1000,1000_QL80_.jpg",
+        "info": "+13 · 2019 · Action/Adventure · 2h 22min",
+        "description": "The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end.",
+        "thumbnail": "https://i.guim.co.uk/img/media/42c5e5a17f0972ae0062568be857c15a97e93b09/571_251_2402_1442/master/2402.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d26b0b2fe253686ba75660e896059cb"
+    },
+    {
+        "title": "Dune: Part One",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
+        "info": "+13 · 2021 · Sci-Fi/Adventure · 2h 35min",
+        "description": "A noble family becomes embroiled in a war for control of the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABZ-397FrXSFVpCs_mVyXaedsZj2ujuqDfC6HP2dnTMmyUzpoWJXMPDZZNP59oxf-z7K9wnVAR2G3k4sGmTw-JedzMSV_wB9mbWYs.jpg?r=720"
+    },
+    {
+        "title": "Interstellar",
+        "image": "https://s4844.pcdn.co/wp-content/uploads/2014/11/interstellar-photos-pictures-stills1-scaled.jpg",
+        "info": "+13 · 2014 · Sci-Fi/Drama · 2h 49min",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "thumbnail": "https://images.bauerhosting.com/legacy/empire-tmdb/films/157336/images/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
+        "info": "+13 · 2001 · Adventure/Action · 2h 58min",
+        "description": "A young hobbit named Frodo Baggins, along with eight companions, embarks on a perilous journey to destroy a powerful ring and save Middle-Earth from evil.",
+        "thumbnail": "https://cdn.britannica.com/34/201734-050-2B1ECD3E/Dominic-Monaghan-Merry-scene-Elijah-Wood-Frodo.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+        "info": "+13 · 2003 · Adventure/Action · 3h 21min",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "thumbnail": "https://variety.com/wp-content/uploads/2017/01/lord-of-the-rings-return-of-the-king.jpg"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+        "info": "+13 · 2018 · Action/Sci-Fi · 2h 29min",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "thumbnail": "https://media.wired.com/photos/5ae216c03f3b183561144223/master/pass/AvengersInfinityWar.jpg"
+    },
+    {
+        "title": "Star Wars: The Revenge of the Sith",
+        "image": "https://resizing.flixster.com/VbyUoOExPrTiGYNye2vlF6aw_no=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY4MjVjNjUzLWQ4OWYtNDAzYy1iOTkwLWUzNTM1NjRkYjEwYy5qcGc=",
+        "info": "+13 · 2005 · Action/Adventure · 2h 20min",
+        "description": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent, uncovering a sinister plan that will shake the galaxy.",
+        "thumbnail": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2023/11/revenge-of-the-sith-still.png"
+    },
+    {
+        "title": "Dune: Part Two",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+13 · 2023 · Sci-Fi/Adventure · 2h 45min",
+        "description": "The story continues as Paul Atreides seeks to understand his destiny while dealing with the challenges of ruling the planet Arrakis.",
+        "thumbnail": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/rev-1-DUN2-27986r-JPv3_High_Res_JPEG-copy.jpg?w=1296&h=730&crop=1"
+    }
+]

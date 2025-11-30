@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check</title>
+</head>
+<body>
+    <h2>Check in</h2>
+    <input type="password" id="password" placeholder="Password">
+    <button id="checkButton">Check</button>
+  
+    <script>
+      const checkButton = document.getElementById('checkButton');
+      const passwordField = document.getElementById('password');
+  
+      // "Giriş" butonuna tıklandığında yapılacak işlemi belirliyoruz
+      checkButton.addEventListener('click', function() {
+        const pw = passwordField.value;
+        if (pw === "password123") {
+          // Şifre doğruysa cookie'yi ayarlıyoruz ve yönlendirme yapıyoruz
+          document.cookie = "logged_in=true; path=/";
+          window.location.href = "index.html"; // index.html'e yönlendirme
+        } else {
+          // Şifre yanlışsa kullanıcıyı uyarıyoruz
+          alert("Incorrect.");
+        }
+      });
+    </script>  
+</body>
+</html>

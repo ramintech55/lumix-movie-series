@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Schindler's List",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1993 · Biography/Drama/History · 3h 15min",
+        "description": "Oskar Schindler, a German businessman, saves over a thousand Polish Jews during the Holocaust by employing them in his factory, risking his life to protect them from the Nazis.",
+        "thumbnail": "https://i.guim.co.uk/img/media/208d00c732eeed823ec55afe35faf252843e0c59/0_47_2520_1512/master/2520.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=2afc817c2c585aa9342fa808b7b4decd"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1994 · Drama · 2h 22min",
+        "description": "Andy Dufresne, wrongly convicted of murder, forms a deep friendship with fellow inmate Ellis 'Red' Redding while seeking redemption and a sense of purpose in Shawshank prison.",
+        "thumbnail": "https://media.vanityfair.com/photos/541c84101019a3955fea0c49/16:9/w_1280,c_limit/s-vfh-shawshank-redemption-20th-anniversary.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+        "info": "+13 · 1994 · Drama/Romance · 2h 22min",
+        "description": "The life story of Forrest Gump, a slow-witted but kind-hearted man from Alabama, who witnesses and unwittingly influences several historical events in the 20th century United States.",
+        "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/5d1f8f05142c500008c8507f/Tom-Hanks-in-Forrest-Gump/960x0.jpg?format=jpg&width=960"
+    },
+    {
+        "title": "12 Angry Men",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg",
+        "info": "+13 · 1957 · Drama · 1h 36min",
+        "description": "A jury deliberates the guilt or innocence of a defendant, with one juror casting doubt on the evidence, leading to intense discussions and revelations about human nature and justice.",
+        "thumbnail": "https://assets.mubicdn.net/images/artworks/330183/images-original.png?1625164279"
+    },
+    {
+        "title": "The Pianist",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 2002 · Biography/Drama/Music · 2h 28min",
+        "description": "The true story of Władysław Szpilman, a Polish-Jewish pianist, who survives the Holocaust in Warsaw through his resilience and the help of strangers.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5MDQxMzQ3M15BMl5BanBnXkFtZTcwMjYxMTIyMw@@._V1_.jpg"
+    },
+    {
+        "title": "American Beauty",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
+        "info": "+16 · 1999 · Drama · 2h 2min",
+        "description": "Lester Burnham, a middle-aged man experiencing a midlife crisis, becomes infatuated with his daughter's friend, leading to a series of events that challenge his suburban existence.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1NjYyMzExMV5BMl5BanBnXkFtZTcwODEyODY3Mw@@._V1_.jpg"
+    },
+    {
+        "title": "The Substance",
+        "image": "https://assets.mubicdn.net/images/artworks/690163/images-original.png?1728246800",
+        "info": "+16 · 2019 · Drama · 1h 30min",
+        "description": "A powerful exploration of addiction and recovery, focusing on an individual's journey through personal struggles and the impact on their relationships.",
+        "thumbnail": "https://sfreporter.com/downloads/65393/download/Movie-Substance.jpg?cb=bb96d1ae1b1a2c0d9528e3b5c48abd3a"
+    },
+    {
+        "title": "The Godfather Part II",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1974 · Crime/Drama · 3h 22min",
+        "description": "The continuation of the Corleone family's saga, juxtaposing Michael Corleone's rise to power with flashbacks of his father's early life and rise in the Mafia.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQyMDc0ODY1OV5BMl5BanBnXkFtZTgwMDI4NjIwMjE@._V1_.jpg"
+    },
+    {
+        "title": "The Green Mile",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1999 · Crime/Drama/Fantasy · 3h 9min",
+        "description": "A death row corrections officer develops a unique relationship with an inmate who has a miraculous gift, leading to profound changes in their lives.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2IyOWE3MDAtYzYyMi00MTAxLWI1MjgtZTQ0ZDk4MGQ2OWEwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "365 Days: This Day",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzJhYmNkNTctM2MxNS00NzY4LWFkYjYtNjFiODhjYzg4MDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+18 · 2022 · Drama/Romance · 1h 51min",
+        "description": "Laura and Massimo's passionate relationship faces new challenges as secrets and betrayals threaten their love and future together.",
+        "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/3/2022/08/365DP320210627Unit00548RT-1-c254eda.jpg?quality=90&fit=700,466"
+    }
+]

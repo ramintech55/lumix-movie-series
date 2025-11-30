@@ -1,0 +1,58 @@
+[
+    {
+        "title": "The Godfather",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 1972 · Drama · 2h 55min",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "thumbnail": "https://images.bauerhosting.com/legacy/media/6217/9535/9649/1207/f543/24bb/vote-hero.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "info": "+13 · 2019 · Action · 3h 1min",
+        "description": "After the devastating events of Infinity War, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIyZDljYWMtZGZkNS00YWE0LTkxOWYtM2I1NzJhYmRjMDM3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+        "info": "+16 · 2017 · Sci-Fi · 2h 44min",
+        "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for decades.",
+        "thumbnail": "https://www.getalternative.com/wp-content/uploads/2017/10/Blade-Runner-2049-031.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "image": "https://musicart.xboxlive.com/7/292c0b00-0000-0000-0000-000000000002/504/image.jpg",
+        "info": "+18 · 1994 · Crime · 2h 34min",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in a series of unexpected incidents.",
+        "thumbnail": "https://resizing.flixster.com/06qphuWGrzYARk9p124DWnaZBFM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15684_i_h10_au.jpg"
+    },
+    {
+        "title": "Intouchables",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_FMjpg_UX1000_.jpg",
+        "info": "+13 · 2011 · Comedy/Drama · 1h 52min",
+        "description": "After becoming a quadriplegic from a paragliding accident, a wealthy aristocrat hires a young man from the projects to be his caregiver.",
+        "thumbnail": "https://images.mubicdn.net/images/film/89573/cache-122457-1649194960/image-w1280.jpg?size=800x"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+        "info": "+18 · 2013 · Biography · 3h 0min",
+        "description": "Based on the true story of Jordan Belfort, the film chronicles his rise as a wealthy stockbroker living the high life to his fall involving crime and corruption.",
+        "thumbnail": "https://media.newyorker.com/photos/5909522d6552fa0be682c09b/master/pass/denby-wolf-of-wall-street.jpg"
+    },
+    {
+        "title": "WALL-E",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg",
+        "info": "G · 2008 · Animation/Sci-Fi · 1h 38min",
+        "description": "A small waste-collecting robot embarks on a space journey that decides the fate of mankind.",
+        "thumbnail": "https://compote.slate.com/images/17bdccdd-d8c9-44e6-b7f8-96f03ca50b33.jpeg?crop=1560%2C1040%2Cx0%2Cy0"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX1000_.jpg",
+        "info": "PG · 2018 · Animation/Action · 1h 57min",
+        "description": "Teen Miles Morales becomes Spider-Man in his universe and teams up with others from parallel dimensions to save the multiverse.",
+        "thumbnail": "https://variety.com/wp-content/uploads/2018/11/spider-man-into-the-spider-verse-e1543416140763.jpg?w=891"
+    }
+]

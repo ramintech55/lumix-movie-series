@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Brooklyn Nine-Nine",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+13 · 2013-2021 · Comedy · 22min per episode",
+      "description": "Brooklyn Nine-Nine follows a group of detectives in the fictional 99th precinct of Brooklyn as they solve crimes, navigate personal relationships, and get into hilarious situations.",
+      "thumbnail": "https://home.adelphi.edu/~sh22239/B99_S3_Group_hires2.jpg"
+    },
+    {
+      "title": "The Office",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
+      "info": "+13 · 2005-2013 · Comedy · 22min per episode",
+      "description": "A mockumentary-style sitcom about the everyday lives of office employees working at Dunder Mifflin's Scranton, PA branch, focusing on their absurd and awkward relationships with each other.",
+      "thumbnail": "https://people.com/thmb/smqKWDXa6NFWc7b6QzgJ7Q48K20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/the-office-e1031c9574194f6b9bc5cc02de64918b.jpg"
+    },
+    {
+      "title": "Parks and Recreation",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDlhMzAwNTAtNTk2NS00MTdkLWE3ZWYtMDU0MTFiYmU2ZTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+13 · 2009-2015 · Comedy · 22min per episode",
+      "description": "Set in the fictional town of Pawnee, Indiana, Parks and Recreation follows the quirky employees of the Parks and Recreation Department, led by the eternally optimistic Leslie Knope.",
+      "thumbnail": "https://www.pluggedin.com/wp-content/uploads/2020/01/parks-and-recreation-review-image-1024x587.jpg"
+    },
+    {
+      "title": "Ted Lasso",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_.jpg",
+      "info": "+13 · 2020-Present · Comedy/Drama · 30min per episode",
+      "description": "Ted Lasso, an American football coach, is hired to manage a British soccer team despite having no experience with soccer. His unrelenting positivity and kindness challenge the cynical world around him.",
+      "thumbnail": "https://www.tvinsider.com/wp-content/uploads/2023/06/Ted-Lasso-1014x570.jpg"
+    },
+    {
+      "title": "Modern Family",
+      "image": "https://www.peacocktv.com/dam/growth/assets/Library/ModernFamily/modern-family-description-image.jpg",
+      "info": "+13 · 2009-2020 · Comedy · 22min per episode",
+      "description": "Modern Family offers a hilarious look at three different types of families—nuclear, blended, and same-sex—focusing on their unique dynamics and humorous situations they find themselves in.",
+      "thumbnail": "https://deadline.com/wp-content/uploads/2020/04/modern-family-sarah-hyland.jpg?w=1000"
+    }
+  ]
+  

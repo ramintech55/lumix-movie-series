@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Avengers: Endgame",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "info": "+13 · 2019 · Action/Sci-Fi · 3h 1min",
+        "description": "The Avengers must unite once more to reverse the destruction caused by Thanos and restore balance to the universe.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIyZDljYWMtZGZkNS00YWE0LTkxOWYtM2I1NzJhYmRjMDM3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+        "info": "+16 · 2017 · Sci-Fi/Drama · 2h 44min",
+        "description": "A young blade runner discovers a long-buried secret that leads him to track down former blade runner Rick Deckard.",
+        "thumbnail": "https://www.getalternative.com/wp-content/uploads/2017/10/Blade-Runner-2049-031.jpg"
+    },
+    {
+        "title": "Terminator 2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg",
+        "info": "+16 · 1991 · Action/Sci-Fi · 2h 17min",
+        "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son from a more advanced Terminator.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjVkMDg5ODAtYjk5ZC00NTczLWFlY2ItZjU3Mjk0MzEyZjQ1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "image": "https://m.media-amazon.com/images/I/613ypTLZHsL.jpg",
+        "info": "+16 · 1999 · Sci-Fi/Action · 2h 16min",
+        "description": "A computer hacker discovers that reality is a simulation and joins a rebellion to free humanity from its machine overlords.",
+        "thumbnail": "https://i.guim.co.uk/img/media/b295f1c9d47d4e21463c51b568588f2dd055627a/0_49_2000_1200/master/2000.jpg?width=465&dpr=1&s=none&crop=none"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg",
+        "info": "+10 · 1980 · Sci-Fi/Adventure · 2h 4min",
+        "description": "The Rebels suffer heavy losses while Luke Skywalker trains with Jedi Master Yoda and confronts Darth Vader.",
+        "thumbnail": "https://www.lucasfilm.com/app/uploads/E5S_KEY_82_R_marquee.jpg"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg",
+        "info": "+10 · 1977 · Sci-Fi/Adventure · 2h 1min",
+        "description": "Luke Skywalker joins forces with a Jedi Knight, a pilot, a Wookiee, and two droids to save the galaxy from the Empire's Death Star.",
+        "thumbnail": "https://www.intofilm.org/intofilm-production/scaledcropped/3000x1688https%3A/intofilm-buckets-production-305862963141-resources.s3.eu-west-1.amazonaws.com/intofilm-production/uploads/Star-Wars-Episode-iv-A-New-Hope-image-3-20th-Century-Fox.jpg/Star-Wars-Episode-iv-A-New-Hope-image-3-20th-Century-Fox.jpg"
+    }
+]

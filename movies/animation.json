@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Toy Story",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+        "info": "G · 1995 · Animation/Adventure · 1h 21min",
+        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "thumbnail": "https://images.ctfassets.net/3m6gg2lxde82/6th7aXjlfdrYqnXWMtyEAG/83f59db7b542ea2d2fe3d63b26d4d796/toy-story.png?w=2048&h=1137&fit=fill&f=faces&q=90&fm=webp"
+    },
+    {
+        "title": "Spirited Away",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+10 · 2001 · Animation/Fantasy · 2h 5min",
+        "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, spirits, and witches.",
+        "thumbnail": "https://hpph.ams3.cdn.digitaloceanspaces.com/3307/conversions/c1162_poster.0163-wide.webp"
+    },
+    {
+        "title": "Coco",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "PG · 2017 · Animation/Family · 1h 45min",
+        "description": "Aspiring musician Miguel enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/image_57ecff16.jpeg?region=0,0,640,480"
+    },
+    {
+        "title": "Despicable Me 4",
+        "image": "https://resizing.flixster.com/vH3pXN9NjNObggCELzxEkFZfmM8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyNmZhYmFmLWFkN2EtNDViMC1iM2U4LWM4YjUzMjcyMDNiNC5qcGc=",
+        "info": "PG · 2024 · Animation/Comedy · (TBD)",
+        "description": "Gru and his family face new villains and unexpected chaos in the latest chapter of the Despicable Me saga.",
+        "thumbnail": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABaM57yA-c_jYoz3YXH4O5WRLMfT42yTsqapvBpvwmfAM-T58Gy9p5xmBycNkUdb1BWFDp17Fk6CtmcSZll2ky9P2-Guq4um7L2mi.jpg?r=634"
+    },
+    {
+        "title": "Your Name",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTIyNzFjNzItZmQ1MC00NzhjLThmMzYtZjRhN2Y3MmM2OGQyXkEyXkFqcGc@._V1_.jpg",
+        "info": "+12 · 2016 · Animation/Romance · 1h 52min",
+        "description": "Two teenagers mysteriously swap bodies and form a deep connection as they try to meet in real life.",
+        "thumbnail": "https://i.guim.co.uk/img/media/7fc8e6d527e4c56967dd638f28094b9f67f08f35/0_0_4583_3053/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=7c8063297aba283d6afd8d3fa86629c9"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "image": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "PG · 2023 · Animation/Action · 2h 20min",
+        "description": "Miles Morales embarks on a journey across the multiverse, facing off against other Spider-People and a mysterious new villain.",
+        "thumbnail": "https://media.wired.com/photos/64790f5a0b67c709cbcaa9b5/16:9/w_2400,h_1350,c_limit/Spider-Man-Across-The-Spider-Verse-Monitor-Culture.jpg"
+    }
+]

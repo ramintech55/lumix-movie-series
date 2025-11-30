@@ -1,0 +1,45 @@
+[
+    {
+      "title": "House of the Dragon",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+      "info": "+18 · 2022–present · Action, Adventure, Drama · 60 minutes per episode",
+      "description": "A prequel to 'Game of Thrones,' set 200 years before the events of the original series, chronicling the Targaryen civil war for control of the Iron Throne.",
+      "thumbnail": "https://cdn.theatlantic.com/thumbor/i3eYqR_uIMfGBSHvi-DtvRn4OyI=/0x0:4800x2700/960x540/media/img/mt/2022/08/house_of_dragon_warner_3/original.jpg"
+    },
+    {
+      "title": "Wednesday",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+13 · 2022 · Mystery/Comedy · 45m per episode",
+      "description": "A twisted coming-of-age story following Wednesday Addams as she attends Nevermore Academy, mastering her psychic ability and uncovering dark secrets in a supernatural mystery.",
+      "thumbnail": "https://compote.slate.com/images/1f272a4c-4cbd-4bc1-9213-495739e30884.jpeg?crop=2700%2C1800%2Cx348%2Cy0"
+    },
+    {
+      "title": "The Witcher",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MTktMDZkMy00NDU1LWIxM2UtODg5OGFiNmRhNDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2019–present · Action, Adventure, Drama · 60 minutes per episode",
+      "description": "Based on the popular book series, 'The Witcher' follows Geralt of Rivia, a mutated monster hunter, as he struggles to find his place in a world full of dangerous creatures.",
+      "thumbnail": "https://variety.com/wp-content/uploads/2020/10/witcher.jpg?w=1000&h=667&crop=1"
+    },
+    {
+      "title": "Shadow and Bone",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWM1NTJiNzUtYTJlYy00NWYyLTliNjUtN2FjNzdkOWQxNWRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2021–present · Action, Adventure, Drama · 60 minutes per episode",
+      "description": "In a war-torn world, Alina Starkov discovers a power that could unite her country. She must navigate treacherous politics and magical forces to save the world.",
+      "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2021/05/ShadowandBone_Season1_Episode5_00_06_09_09Rc.jpg?w=1581&h=1054&crop=1"
+    },
+    {
+      "title": "Good Omens",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRmNGY5MTUtNDQxMC00MjMyLWIzODQtNzU2ZTdhMjJhOTA5XkEyXkFqcGc@._V1_.jpg",
+      "info": "+12 · 2019 · Adventure, Comedy, Drama · 60 minutes per episode",
+      "description": "A demon and an angel team up to prevent the apocalypse after growing fond of Earth, in this quirky adaptation of the beloved novel by Neil Gaiman and Terry Pratchett.",
+      "thumbnail": "https://variety.com/wp-content/uploads/2019/06/good-omens.jpg"
+    },
+    {
+      "title": "Locke & Key",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg3YzU0YzItNTAwNC00MjNkLThhZmItNDI3NWY3ZDdhN2Q2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2020–2022 · Drama, Fantasy, Horror · 60 minutes per episode",
+      "description": "After their father's murder, three siblings move into their ancestral home and discover magical keys that unlock powers and secrets, all while battling dark forces.",
+      "thumbnail": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQbHFrwn1GoDpJHqd9i5E9LSFQSUruvcoermREXwfSwCvnkny7tf788zrGCkjUbmY0XKztbnS6Bui2vPU8QTplODklOkoq4te4D1G3oIrmkYknDfJaz1AvPgEUqgiyhfjlA5vx_AuJq6ZJPMQjFMS1W4InRw.jpg?r=2d5"
+    }
+]
+  

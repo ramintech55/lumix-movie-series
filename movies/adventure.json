@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Indiana Jones",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+13 · 1981 · Action/Adventure · 1h 55min",
+        "description": "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis do.",
+        "thumbnail": "https://i0.wp.com/talesoftimesforgotten.com/wp-content/uploads/2020/12/Indiana-Jones-Golden-Idol.jpg?fit=1200%2C675&ssl=1"
+    },
+    {
+        "title": "Back to the Future",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
+        "info": "+10 · 1985 · Sci-Fi/Comedy · 1h 56min",
+        "description": "Teenager Marty McFly travels back in time in a DeLorean and must ensure his parents meet to safeguard his own existence.",
+        "thumbnail": "https://i.guim.co.uk/img/media/97ecce1b981acf7dea536dc368cd09102ace6d28/0_101_720_432/master/720.jpg?width=465&dpr=1&s=none&crop=none"
+    },
+    {
+        "title": "Fight Club",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+18 · 1999 · Drama/Thriller · 2h 19min",
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something far more.",
+        "thumbnail": "https://media.newyorker.com/photos/5dbafcc91b4a6700085a7a9b/16:9/w_2559,h_1439,c_limit/Baker-FightClub.jpg"
+    },
+    {
+        "title": "Gladiator",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
+        "info": "+16 · 2000 · Action/Drama · 2h 35min",
+        "description": "A betrayed Roman general fights as a gladiator while seeking vengeance against the corrupt emperor who murdered his family.",
+        "thumbnail": "https://variety.com/wp-content/uploads/2024/06/gladiator.jpg?w=1000&h=666&crop=1"
+    }
+]

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LumiX</title>
+    <link rel="stylesheet" href="styles/global.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script>
+        // Sayfa yüklendiğinde cookie kontrolü yapılır
+        window.addEventListener('load', function() {
+          if (!document.cookie.includes("logged_in=true")) {
+            // Eğer cookie yoksa kullanıcıyı login sayfasına yönlendir
+            window.location.href = "check.html";
+          }
+        });
+      </script>    
+</head>
+<body>
+    <section class="head">
+        <select id="languageSelect" style="top: 6rem;">
+            <option value="" disabled selected>Language</option>
+            <option value="en">English</option>
+            <option value="ru">Russian</option>
+            <option value="tr">Turkish</option>
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+            <option value="de">German</option>
+            <option value="pt">Portuguese</option>
+            <option value="az">Azerbaijani</option>
+        </select>
+        <div class="logo">LumiX</div>
+        <div class="slogan" data-i18n="slogan"><i>Light, Camera, Action!</i></div>
+        <div class="text" data-i18n="text">Epic Movies and Tv Shows,<br>All in One</div>
+        <div class="ready" data-i18n="ready">Ready to watch?</div>
+        <div class="buttons">
+            <a href="sign-in.html"><button class="signbtn" data-i18n="signbtn">Sign in</button></a>
+            <button class="guestbtn" data-i18n="guestbtn"><i class="fa-regular fa-user"></i>Continue as Guest</button>    
+        </div>
+    </section>
+
+    <section class="faq">
+        <div class="faq-container">
+            <p class="faq-text">Some Frequently Asked Questions</p>
+            <div class="faq-item">
+                <button class="faq-question">What is LumiX?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>LumiX is a streaming platform that offers a wide variety of movies, TV shows, and exclusive content for viewers around the world. With a user-friendly interface and high-quality streaming options, LumiX brings the best in entertainment right to your screen. Whether you're into action, drama, documentaries, or family-friendly options, LumiX has something for everyone.</p></div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">How much does LumiX cost?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>LumiX offers flexible subscription plans to fit your needs. You can choose between a Standard Plan for basic access, or a Premium Plan for unlimited streaming in HD and exclusive content. Pricing varies based on the plan you select. We also offer a free trial so you can explore the service before committing.</p></div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">Where can I watch LumiX?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>LumiX is available on a wide range of devices, including smart TVs, computers, smartphones, tablets, and streaming devices like Roku and Apple TV. Simply download the LumiX app or visit our website to start watching anywhere, anytime.</p></div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">Can I cancel subscription any time?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>Yes, LumiX offers a flexible subscription model. You can cancel your subscription at any time without penalties. Once canceled, you will continue to have access to the service until the end of your current billing cycle.</p></div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">What can I watch on LumiX?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>LumiX offers a vast library of movies, TV shows, and exclusive content across all genres. From the latest blockbuster films to timeless classics and original series, there’s something for every taste. We update our library regularly with new content, so you’ll always find something fresh to watch.</p></div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">Is it safe for kids?<i class="fas fa-plus"></i></button>
+                <div class="faq-answer"><p>LumiX provides a Kids Mode to ensure safe and age-appropriate content for younger viewers. The Kids Mode includes a selection of family-friendly movies and shows, along with parental controls to restrict access to certain content. You can set up different profiles to manage what each member of your household can watch.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="row">
+            <div class="footer-col">
+                <h4 data-i18n="company">Company</h4>
+                <ul>
+                    <li><a href="#" data-i18n="aboutUs">About Us</a></li>
+                    <li><a href="#" data-i18n="ourServices">Our Services</a></li>
+                    <li><a href="#" data-i18n="privacyPolicy">Privacy Policy</a></li>
+                    <li><a href="#" data-i18n="termsCondition">Terms & Conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 data-i18n="getHelp">Get Help</h4>
+                <ul>
+                    <li><a href="#" data-i18n="faq">FAQ</a></li>
+                    <li><a href="#" data-i18n="payment">Payment Options</a></li>
+                    <li><a href="#" data-i18n="streaming">Streaming Issues</a></li>
+                    <li><a href="#" data-i18n="device">Device Compatibility</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 data-i18n="follow">Follow Us</h4>
+                <ul class="socials">
+                    <li><a href="#"><i class="fab fa-instagram"></i><span class="social-name" data-i18n="instagram">Instagram</span></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i><span class="social-name" data-i18n="twitter">Twitter</span></a></li>
+                    <li><a href="#"><i class="fab fa-tiktok"></i><span class="social-name" data-i18n="tiktok">TikTok</span></a></li>
+                    <li><a href="#"><i class="fab fa-youtube"></i><span class="social-name" data-i18n="youtube">YouTube</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="rights"><p>&copy; 2025 LumiX. All rights reserved.</p></div>
+    </footer>
+    
+    <script src="scripts/global.js"></script>
+</body>
+</html>

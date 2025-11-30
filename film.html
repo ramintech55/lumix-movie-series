@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film</title>
+    <link rel="stylesheet" href="styles/global.css">
+    <link rel="stylesheet" href="styles/home.css">
+    <link rel="stylesheet" href="styles/film.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="scripts/search.js" defer></script>
+</head>
+<body>
+    <nav class="navbar">
+        <ul class="menu-tabs">
+            <li><button id="home-btn"><i class="fas fa-home"></i><span class="button-text">Home</span></button></li>
+            <li><button id="movies-btn"><i class="fas fa-video"></i><span class="button-text">Movies</span></button></li>
+            <li><button id="series-btn"><i class="fas fa-clapperboard"></i><span class="button-text">TV Series</span></button></li>
+        </ul>
+        <div class="logo">LumiX</div>
+        <div class="buttons">
+            <div class="search-div">
+                <div class="searching">
+                    <input type="text" class="search-input" placeholder="Search..." id="searchInput">
+                    <ul id="searchResults"></ul>    
+                </div>
+                <button class="search-btn"><i class="fas fa-search"></i></button>    
+            </div>
+            <button class="more-btn"><i class="fas fa-ellipsis-v"></i></button>
+            <div class="profile-div">
+                <button class="profile-btn"><i class="fas fa-user-circle"></i></button>
+                <button class="profile-arrow-btn">&#9013;</button>        
+            </div>
+        </div>
+    </nav>
+
+    <section class="body" style="margin-top: 2rem;">
+        <div class="col1">
+            <div class="name"></div>
+            <div class="info"></div>
+            <div class="about"></div>
+            <div class="film-btns">
+                <button class="play-btn"><i class="fas fa-play"></i> Play</button>
+                <button class="trailer">Trailer</button>    
+            </div>
+        </div>
+
+        <div class="col2">
+            <div class="image"><img src="" class="film-thumbnail" alt="Film Poster"></div>
+        </div>
+    </section>
+
+    <section class="trends-container" style="margin-top: 4rem;">
+        <span data-i18n="suggest">Suggestions</span><a href="#" class="view-more" data-i18n="viewMore">View More</a>
+        <div class="trends-wrapper">
+            <div class="trends"></div>
+            <button class="prevTrendBtn"><i class="fas fa-chevron-left"></i></button>
+            <button class="nextTrendBtn"><i class="fas fa-chevron-right"></i></button>    
+        </div>
+    </section>
+
+    <footer style="background-color: rgba(0, 0, 0, 0.5);">
+        <div class="row">
+            <div class="footer-col">
+                <h4 data-i18n="company">Company</h4>
+                <ul>
+                    <li><a href="#" data-i18n="aboutUs">About Us</a></li>
+                    <li><a href="#" data-i18n="ourServices">Our Services</a></li>
+                    <li><a href="#" data-i18n="privacyPolicy">Privacy Policy</a></li>
+                    <li><a href="#" data-i18n="termsCondition">Terms & Conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 data-i18n="getHelp">Get Help</h4>
+                <ul>
+                    <li><a href="#" data-i18n="faq">FAQ</a></li>
+                    <li><a href="#" data-i18n="payment">Payment Options</a></li>
+                    <li><a href="#" data-i18n="streaming">Streaming Issues</a></li>
+                    <li><a href="#" data-i18n="device">Device Compatibility</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4 data-i18n="follow">Follow Us</h4>
+                <ul class="socials">
+                    <li><a href="#"><i class="fab fa-instagram"></i><span class="social-name" data-i18n="instagram">Instagram</span></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i><span class="social-name" data-i18n="twitter">Twitter</span></a></li>
+                    <li><a href="#"><i class="fab fa-tiktok"></i><span class="social-name" data-i18n="tiktok">TikTok</span></a></li>
+                    <li><a href="#"><i class="fab fa-youtube"></i><span class="social-name" data-i18n="youtube">YouTube</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="rights"><p>&copy; 2025 LumiX. All rights reserved.</p></div>
+    </footer>
+
+    <script src="scripts/home.js"></script>
+    <script src="scripts/film.js"></script>
+</body>
+</html>

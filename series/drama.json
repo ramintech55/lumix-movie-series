@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Breaking Bad",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2008-2013 · Crime, Drama, Thriller · 47 minutes per episode",
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to build a criminal empire while struggling with his own moral dilemmas.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg"
+    },
+    {
+      "title": "The Crown",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2016–2023 · Biography, Drama, History · 58 minutes per episode",
+      "description": "The biographical story of the reign of Queen Elizabeth II, highlighting political rivalries, personal struggles, and pivotal moments in history.",
+      "thumbnail": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQScLaU8HKcb47SV25xSdrTSjoIcVl7lbXDYXYS_8WPgfdFvirsy3TUlyTNODRHzDCs-thOwIxUxpBF6kwE7a1qC2WywJ6QVlmTEhP1v4f93N20l-IuPrhG7efskJg2Ci5LOuyZLrqAH7WVEX28YTshaM7Sc.jpg?r=9c7"
+    },
+    {
+      "title": "The Handmaid’s Tale",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWIxMzk4NmItZmM1YS00ODUyLWFlNjgtZDQ4MzljZTZmZDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2017–present · Drama, Sci-Fi, Thriller · 50 minutes per episode",
+      "description": "In a dystopian future, a woman is forced into the role of a handmaid to bear children for a wealthy family in a totalitarian society.",
+      "thumbnail": "https://media.newyorker.com/photos/5909807ffba4e90c8d8d91f9/master/pass/Culture-Review_Handmaids-Tale-Featured.jpg"
+    },
+    {
+      "title": "Succession",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEwNTFkZTktMzI1OC00YmRjLWE5NTUtYmZhMmJlNGUxMWU1XkEyXkFqcGc@._V1_.jpg",
+      "info": "+16 · 2018–2023 · Drama · 59 minutes per episode",
+      "description": "A wealthy family’s patriarch has decided to step down, leading to fierce infighting among his children as they battle for control of the family empire.",
+      "thumbnail": "https://static.hbo.com/2021-10/succession-ka-1920_0.jpg?w=1200"
+    },
+    {
+      "title": "Better Call Saul",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_.jpg",
+      "info": "+18 · 2015-2022 · Crime, Drama · 47 minutes per episode",
+      "description": "The prequel to Breaking Bad, following the transformation of Jimmy McGill, a small-time lawyer, into the morally ambiguous lawyer Saul Goodman.",
+      "thumbnail": "https://variety.com/wp-content/uploads/2020/06/bob-odenkirk.jpg?w=1000&h=563&crop=1"
+    }
+  ]
+  

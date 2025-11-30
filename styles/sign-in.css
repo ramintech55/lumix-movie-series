@@ -1,0 +1,154 @@
+.logo {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.sign-text {
+    color: var(--text-color);
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    margin-bottom: 1rem;
+}
+
+.sign-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+
+.user-input {
+    border: none;
+    outline: none;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    padding: 1rem 1.5rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.divider::before,
+.divider::after {
+    content: "";
+    background-color: var(--secondary-text-color);
+    height: 0.1rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+.alt-buttons {
+    display: flex;
+    width: 40%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+    gap: 2rem;
+}
+
+.alt-btn {
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 2rem;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    font-size: 1.3rem;
+    transition: 0.2s ease;
+}
+
+.alt-btn:hover {
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+    background-color: #f0f0f0;
+}
+
+.alt-btn i {
+    padding-right: 1rem;
+}
+
+.login {
+    color: var(--secondary-text-color);
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-bottom: 4rem;
+}
+
+.login-link {
+    color: var(--cta-color);
+    text-decoration: none;
+}
+
+.login-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 862px) {
+    .alt-btn {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width : 787px) {
+    .alt-btn {
+        font-size: 0.8rem;
+    }
+    .alt-btn i {
+        padding-right: 0.5rem;
+    }
+    .sign-section {
+        padding: 0;
+    }
+}
+
+@media (max-width: 500px) {
+    .alt-btn {
+        font-size: 0.6rem;
+        padding: 0.5rem 1.5rem;
+    }
+    .alt-btn i {
+        padding-right: 0.5rem;
+    }
+    .sign-section {
+        padding: 0;
+    }
+    .login {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 446px) {
+    .alt-btn {
+        font-size: 0.6rem;
+        padding: 0.5rem 1.5rem;
+    }
+    .alt-btn i {
+        padding-right: 0.5rem;
+    }
+    .sign-section {
+        padding: 0;
+    }
+    .user-input {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+    }
+    .login {
+        font-size: 0.8rem;
+    }
+}

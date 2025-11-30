@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Last Breath",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmNjMDg1Y2EtNmZiOS00NGUzLThjZGYtNzU2OGI5M2VkMDFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+13 · 2019 · Documentary · 1h 30min",
+        "description": "A deep-sea saturation diver becomes trapped 100 meters underwater without oxygen after his umbilical cable is severed, leading to a miraculous survival story.",
+        "thumbnail": "https://deadline.com/wp-content/uploads/2025/02/Last-Breath.jpg"
+    },
+    {
+        "title": "The Social Dilemma",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Social_dilemma_xlg.jpg",
+        "info": "+13 · 2020 · Documentary/Drama · 1h 34min",
+        "description": "Tech experts reveal how social media platforms manipulate users by exploiting human psychology, leading to addiction, misinformation, and societal harm.",
+        "thumbnail": "https://snworksceo.imgix.net/bdh/81555b20-e0ca-400e-9b91-812a8b7b3b8d.sized-1000x1000.jpg?w=1000"
+    },
+    {
+        "title": "Hot Girls Wanted",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "+16 · 2015 · Documentary · 1h 22min",
+        "description": "An intimate look into the lives of young women entering the amateur porn industry, exploring the exploitation and challenges they face.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmRlMzc4MWYtNDdkYi00YzgxLWFjN2UtN2Y5YzFhMWE4ZTAxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Great Hack",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/62/The_Great_Hack_poster.jpg",
+        "info": "+13 · 2019 · Documentary · 1h 53min",
+        "description": "Investigates the Facebook–Cambridge Analytica data scandal, revealing how personal data was used to influence political outcomes.",
+        "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190722085255-the-great-hack-netflix.jpg?q=w_3840,h_2160,x_0,y_0,c_fill"
+    },
+    {
+        "title": "Inside Job",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MjkyODA2Nl5BMl5BanBnXkFtZTcwNzQxMTU4Mw@@._V1_.jpg",
+        "info": "+13 · 2010 · Documentary · 1h 49min",
+        "description": "An in-depth look at the 2008 global financial crisis, examining the unethical practices and systemic corruption that led to the economic collapse.",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/2/23/1298461750342/Inside-Job-007.jpg?width=465&dpr=1&s=none&crop=none"
+    }
+]

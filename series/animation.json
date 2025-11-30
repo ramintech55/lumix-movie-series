@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Rick and Morty",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2013-Present · Animation/Comedy · 22min per episode",
+      "description": "An eccentric and alcoholic scientist, Rick Sanchez, and his good-hearted but easily distressed grandson, Morty, embark on dangerous and often absurd adventures across the multiverse.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzU1MzAyNzUtY2FlZi00YTg1LTg2OGQtZjZjYzg3YWVlNGMyXkEyXkFqcGdeQW1yb2Njbw@@._V1_.jpg"
+    },
+    {
+      "title": "BoJack Horseman",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmMwMDlkNTEtMmQzZS00ODQ0LWJlZmItOTgwYWMwZGM4MzFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+18 · 2014-2020 · Animation/Comedy · 25min per episode",
+      "description": "BoJack Horseman, a washed-up actor who happens to be a horse, struggles with addiction, relationships, and a search for meaning in his life amidst Hollywood's shallow glitz.",
+      "thumbnail": "https://assets.vogue.com/photos/5891b58ece34fb453af7ca55/master/pass/00-holding-bojack-horseman.jpg"
+    },
+    {
+      "title": "Arcane",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_.jpg",
+      "info": "+13 · 2021-Present · Animation/Action · 40min per episode",
+      "description": "Set in the League of Legends universe, Arcane tells the story of two sisters in the city of Piltover and their opposing paths as they get caught in the battle between the wealthy and the underprivileged.",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/42916ef8c3adfb0fe0aeaf1bc164086c20e2ece4c8a4b116472a05ecdb5b21ff._SX1080_FMjpg_.jpg"
+    },
+    {
+      "title": "Attack on Titan",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+16 · 2013-Present · Animation/Action · 25min per episode",
+      "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures called Titans, a young man named Eren Jaeger joins the military to fight back and uncover the truth behind the Titans.",
+      "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/3/2023/11/attack-on-titan-watch-order-664c3eb.jpg?quality=90&resize=980,654"
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "info": "+7 · 2005-2008 · Animation/Adventure · 22min per episode",
+      "description": "A young boy named Aang, the last of the Air Nomads and the Avatar, must master all four elements and bring balance to the world, while being pursued by the Fire Nation seeking to conquer the world.",
+      "thumbnail": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/Avatar-The-Last-Airbender.png?resize=2000,1125"
+    }
+  ]
+  

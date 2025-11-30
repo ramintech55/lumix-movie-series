@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Lion King",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
+        "info": "+6 · 2019 · Animation/Drama · 1h 58min",
+        "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "thumbnail": "https://www.komar.de/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/import/api-v1.1-file-public-files-pim-assets-97-ad-84-62-6284ad972eff292d45ce1a2e-images-bc-08-7d-67-677d08bcb0ede0e047d138db-dx7-196-disney-the-lion-king-full-moon-walk-web.jpg"
+    },
+    {
+        "title": "The Prestige",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+        "info": "+13 · 2006 · Drama/Mystery · 2h 10min",
+        "description": "Two rival magicians in 19th-century London compete to create the ultimate illusion, leading to obsession and tragedy.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODc0MzkxOTg5N15BMl5BanBnXkFtZTcwODkzNDMyMw@@._V1_.jpg"
+    },
+    {
+        "title": "Joker",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg",
+        "info": "+18 · 2019 · Crime/Drama · 2h 2min",
+        "description": "A mentally troubled comedian embarks on a downward spiral of social isolation and madness that leads to violence and chaos in Gotham City.",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGQ1ZGZmNTAtM2MyYi00NmZhLTkwYmYtNTNlZDRhMzU2ZTgwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"
+    }
+]
