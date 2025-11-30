@@ -15,15 +15,12 @@
       const checkButton = document.getElementById('checkButton');
       const passwordField = document.getElementById('password');
   
-      // "Giriş" butonuna tıklandığında yapılacak işlemi belirliyoruz
       checkButton.addEventListener('click', function() {
         const pw = passwordField.value;
         if (pw === "password123") {
-          // Şifre doğruysa cookie'yi ayarlıyoruz ve yönlendirme yapıyoruz
           document.cookie = "logged_in=true; path=/";
-          window.location.href = "index.html"; // index.html'e yönlendirme
+          window.location.href = "index.html";
         } else {
-          // Şifre yanlışsa kullanıcıyı uyarıyoruz
           alert("Incorrect.");
         }
       });
